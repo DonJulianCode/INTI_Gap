@@ -70,7 +70,9 @@ print(f"---------------------------------------------")
 print(f"🧪 Material: {material}")
 print(f"⚡ Band Gap Predicho: {gap:.4f} eV")
 print(f"---------------------------------------------")
-📂 Estructura de Archivos
+
+---
+# 📂 Estructura de Archivos
 Inti_Gap_Training.ipynb: Cuaderno principal de entrenamiento y visualización.
 
 inti_gap_model.pkl: Archivo binario con el modelo entrenado (listo para producción).
